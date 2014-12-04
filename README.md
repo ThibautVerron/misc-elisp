@@ -1,2 +1,1 @@
-misc-elisp
-==========
+Miscellaneous code snippets customizing emacs's behavior
